@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-//import 'bootstrap/dist/js/bootstrap';
+import 'bootstrap/dist/js/bootstrap';
 
 @Component({
   selector: 'app-nav-bar',
